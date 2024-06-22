@@ -1,0 +1,23 @@
+{
+  "name": "slidev-presentation",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "export": "turbo run export"
+  },
+  "license": "ISC",
+  "packageManager": "pnpm@9.4.0",
+  "engines": {
+    "npm": "use pnpm please!",
+    "yarn": "use pnpm please!",
+    "pnpm": ">=9.4.0"
+  },
+  "devDependencies": {
+    "@repo/eslint-config": "workspace:*",
+    "@slidev/cli": "^0.47.0",
+    "turbo": "^2.0.4"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@repo/eslint-config",
+  "version": "1.0.0",
+  "description": "eslint config package.",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.5.0"
+  }
+}
